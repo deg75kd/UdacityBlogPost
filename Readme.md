@@ -23,4 +23,10 @@ There is a csv file of data obtained from Inside Airbnb at http://insideairbnb.c
 
 ## Results
 
-The main findings of the code can be found at https://medium.com/@kevin.dejesus/opportunities-for-airbnb-hosts-in-chicago-c2e68fea5c0f.
+The main findings of the code are as follows:
+
+    The most expensive neighborhoods tend to be centrally located or have a lot of "hot" restaurants and nightlife.  The least expensive ones are all on the South and West Sides, areas of the city that have higher crime rates.
+    There is no discernible difference in ratings based on the number of properties a host has listed on Airbnb.
+    The model I developed was not effective in predicting rental prices, but that could probably be corrected with additional analysis.
+
+A full write-up can be found at https://medium.com/@kevin.dejesus/opportunities-for-airbnb-hosts-in-chicago-c2e68fea5c0f.
